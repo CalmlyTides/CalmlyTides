@@ -1,10 +1,10 @@
 # REQUIRED CHANGES
 # Edit next line to provide your own name.
-title: Molly Maluhia | Professional Portfolio
-# Edit next line, replacing 'techfolios' with your github username
-url: "https://techfolios.github.io"
-# Edit next line so that baseurl is "" if your repo is <username>.github.io
-baseurl: "/template"
+title: William Young | Professional Portfolio
+# GitHub Pages host for this repository.
+url: "https://calmlytides.github.io"
+# This portfolio currently lives in the CalmlyTides project repository.
+baseurl: "/CalmlyTides"
 
 # OPTIONAL CHANGES
 ## Specify the theme using any of the css files in css/techfolio-theme
